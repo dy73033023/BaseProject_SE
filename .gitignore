@@ -1,0 +1,27 @@
+# Visual Studio local state
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Compiler and linker output (keep bundled dependency DLLs and LIBs)
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.exe.recipe
+*.log
+*.tlog
+*.lastbuildstate
+BaseProject_SE/SimpleGame/x64/
+BaseProject_SE/SimpleGame/Debug/
+BaseProject_SE/SimpleGame/Release/
+
+# Asset copies in output directories; source PNGs remain under SimpleGame/Assets
+BaseProject_SE/x64/Debug/Assets/
+BaseProject_SE/x64/Release/Assets/
+BaseProject_SE/Debug/Assets/
+BaseProject_SE/Release/Assets/
